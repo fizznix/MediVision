@@ -11,5 +11,5 @@
 
 ## Site 
 
-[MediVision](https://medivision-drug-action-visualizer.netlify.app/)
+Go checkout and try out the deployed version - [MediVision](https://medivision-drug-action-visualizer.netlify.app/)
 
