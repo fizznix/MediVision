@@ -1,0 +1,7 @@
+{
+  "name": "MediVision: Drug Action Visualizer",
+  "description": "An application that uses AI to generate simple, visual metaphors for how medications work, helping patients understand their treatment and improve adherence.",
+  "requestFramePermissions": [
+    
+  ]
+}
